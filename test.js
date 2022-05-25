@@ -1,0 +1,1 @@
+const vini = "is ass";
